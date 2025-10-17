@@ -1,18 +1,7 @@
 #  Fish Todo List App
 
-A **fun and colorful GUI-based To-Do List application** built using **Python Tkinter**!
-This app helps you manage your tasks underwater-style  — complete, delete, and clear them with ease!
-
----
-
-##  Features
-
-*  Beautiful ocean-themed interface
-*  Add new tasks
-*  Mark tasks as complete
-*  Delete tasks
-*  Clear all tasks
-*  Background image support using Pillow
+A **fun and colorful GUI-based To-Do List application** built using **Python Tkinter**,
+This app helps you manage your tasks  — complete, delete, and clear them with ease.
 
 ---
 
