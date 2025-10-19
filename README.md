@@ -47,6 +47,10 @@ pip install pillow
 
 ---
 
+## Thanks to
+- [Tiannsu's apdevet-fish-todo](https://github.com/Tiaansu/apdevet-fish-todo) (for the background image used in this project)
+---
+
 ##  Author
 
 Developed by **Christian Daniel Cagas** 
