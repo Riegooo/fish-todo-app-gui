@@ -39,7 +39,7 @@ pip install pillow
 
 ---
 
-##  Technologies Used
+##  Tech Stack
 
 * **Python** 
 * **Tkinter** for GUI
