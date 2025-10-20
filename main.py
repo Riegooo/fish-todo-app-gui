@@ -76,7 +76,7 @@ header_frame.pack(fill=X)
 
 title_label = Label(
     header_frame,
-    text="🐟 Fish Todo List App",
+    text="🐟 Fish Todo App",
     font=("Segoe UI", 26, "bold"),
     fg="white",
     bg=header_color
