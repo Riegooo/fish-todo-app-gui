@@ -1,4 +1,4 @@
-#  Fish Todo List App
+#  Fish Todo List App (Tkinter GUI)
 
 A **mini simple fish To-Do List application** built using **Python Tkinter**,
 This app helps you manage your tasks  — complete, delete, and clear them with ease.
